@@ -2,7 +2,7 @@
 Dual GroupGAN: An unsupervised Four-Competitor (2V2) approach for video anomaly detection.
 
 ### The network pipeline.  
-![Example 0](contents/pipeline.png)
+![Example 0](pipeline.png)
 
 ## Environments  
 PyTorch 1.12.1.  
